@@ -1,0 +1,141 @@
+{
+  "slug": "un-dia-en-madrid",
+  "story": {
+    "title": "Un día en Madrid",
+    "slug": "un-dia-en-madrid",
+    "summary": "Marta visita Madrid con su hermano.",
+    "level": "A2",
+    "category": "Travel",
+    "lang": "es-ES",
+    "parts": [
+      {
+        "title": "Llegada",
+        "paragraphs": "Marta llega a Madrid en tren.\n\nSu hermano Pablo la espera en la estación.",
+        "imageKey": "",
+        "imageAlt": "",
+        "imageAfter": 1,
+        "audioKey": "",
+        "videoKey": "",
+        "youtube": "",
+        "youtubeStart": "",
+        "youtubeEnd": "",
+        "cues": "",
+        "grammar": [
+          {
+            "title": "Presente de llegar",
+            "explanation": "Regular -ar verb: llego, llegas, llega, llegamos, llegáis, llegan.",
+            "examples": [
+              {
+                "text": "Marta llega en tren.",
+                "translation": "Marta arrives by train."
+              }
+            ]
+          }
+        ],
+        "vocabulary": [
+          {
+            "word": "estación",
+            "meaning": "station"
+          },
+          {
+            "word": "esperar",
+            "meaning": "to wait for"
+          }
+        ],
+        "quiz": [
+          {
+            "question": "¿Cómo llega Marta?",
+            "options": [
+              {
+                "text": "En tren"
+              },
+              {
+                "text": "En avión"
+              }
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "title": "Por la tarde",
+        "paragraphs": "Pasean por el parque del Retiro.\n\nAl final compran un helado.",
+        "imageKey": "",
+        "imageAlt": "",
+        "imageAfter": 1,
+        "audioKey": "",
+        "videoKey": "",
+        "youtube": "",
+        "youtubeStart": "",
+        "youtubeEnd": "",
+        "cues": "",
+        "grammar": [],
+        "vocabulary": [
+          {
+            "word": "pasear",
+            "meaning": "to go for a walk"
+          },
+          {
+            "word": "helado",
+            "meaning": "ice cream"
+          }
+        ],
+        "quiz": [
+          {
+            "question": "¿Qué compran al final?",
+            "options": [
+              {
+                "text": "Un libro"
+              },
+              {
+                "text": "Un helado"
+              }
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "title": "El almuerzo",
+        "paragraphs": "Los hermanos comen en un restaurante pequeño.\n\nMarta pide una tortilla y Pablo pide pescado.",
+        "imageKey": "",
+        "imageAlt": "",
+        "imageAfter": 1,
+        "audioKey": "",
+        "videoKey": "",
+        "youtube": "",
+        "youtubeStart": "",
+        "youtubeEnd": "",
+        "cues": "",
+        "grammar": [],
+        "vocabulary": [
+          {
+            "word": "tortilla",
+            "meaning": "Spanish omelette"
+          },
+          {
+            "word": "pedir",
+            "meaning": "to order"
+          }
+        ],
+        "quiz": [
+          {
+            "question": "¿Qué pide Pablo?",
+            "options": [
+              {
+                "text": "Tortilla"
+              },
+              {
+                "text": "Pescado"
+              },
+              {
+                "text": "Ensalada"
+              }
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  }
+}

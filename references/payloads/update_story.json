@@ -1,0 +1,35 @@
+{
+  "slug": "el-mercado-de-sevilla",
+  "story": {
+    "title": "El mercado de Sevilla",
+    "slug": "el-mercado-de-sevilla",
+    "summary": "Ana compra fruta y verdura para la cena.",
+    "level": "A2",
+    "category": "Daily life",
+    "lang": "es-ES",
+    "parts": [
+      {
+        "title": "Por la mañana",
+        "paragraphs": "Ana va al mercado.\n\nCompra naranjas y tomates.",
+        "imageKey": "",
+        "imageAlt": "",
+        "imageAfter": 1,
+        "audioKey": "",
+        "videoKey": "",
+        "youtube": "",
+        "youtubeStart": "",
+        "youtubeEnd": "",
+        "cues": "",
+        "grammar": [],
+        "vocabulary": [{ "word": "naranja", "meaning": "orange" }],
+        "quiz": [
+          {
+            "question": "¿Adónde va Ana?",
+            "options": [{ "text": "Al mercado" }, { "text": "A la playa" }],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  }
+}

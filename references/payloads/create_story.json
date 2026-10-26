@@ -1,0 +1,47 @@
+{
+  "story": {
+    "title": "El mercado de Sevilla",
+    "slug": "el-mercado-de-sevilla",
+    "summary": "Ana compra fruta para la cena.",
+    "level": "A2",
+    "category": "Daily life",
+    "lang": "es-ES",
+    "parts": [
+      {
+        "title": "Por la mañana",
+        "paragraphs": "Ana va al mercado.\n\nCompra naranjas y tomates.\n\nEl vendedor sonríe y dice: «Buenos días».",
+        "imageKey": "stories/media/3f2b8c1e-9a4d-4e6f-8b7a-1c2d3e4f5a6b.png",
+        "imageAlt": "Una mujer elige naranjas en un puesto de mercado.",
+        "imageAfter": 2,
+        "audioKey": "stories/media/7c1d9e20-5b3a-4f81-9d62-0a1b2c3d4e5f.mp3",
+        "videoKey": "",
+        "youtube": "",
+        "youtubeStart": "",
+        "youtubeEnd": "",
+        "cues": "",
+        "grammar": [
+          {
+            "title": "Ir a + place",
+            "explanation": "Use the verb ir with a to say where someone goes. A + el becomes al.",
+            "examples": [
+              { "text": "Ana va al mercado.", "translation": "Ana goes to the market." },
+              { "text": "Voy a la playa.", "translation": "I am going to the beach." }
+            ]
+          }
+        ],
+        "vocabulary": [
+          { "word": "naranja", "meaning": "orange" },
+          { "word": "vendedor", "meaning": "seller" }
+        ],
+        "quiz": [
+          {
+            "question": "¿Qué compra Ana?",
+            "options": [{ "text": "Naranjas y tomates" }, { "text": "Pan y leche" }, { "text": "Pescado" }],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  "status": "DRAFT"
+}

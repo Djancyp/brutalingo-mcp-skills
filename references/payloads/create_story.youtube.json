@@ -1,0 +1,29 @@
+{
+  "story": {
+    "title": "Una canción en la calle",
+    "slug": "una-cancion-en-la-calle",
+    "summary": "Un músico toca en la plaza y la gente escucha.",
+    "level": "B1",
+    "category": "Culture",
+    "lang": "es-ES",
+    "parts": [
+      {
+        "title": "El músico",
+        "paragraphs": "",
+        "imageKey": "",
+        "imageAlt": "",
+        "imageAfter": 1,
+        "audioKey": "",
+        "videoKey": "",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "youtubeStart": "0:10",
+        "youtubeEnd": "1:30",
+        "cues": "0:12 Hola, amigos. | Hello, friends.\n0:20 Hoy toco para vosotros. | Today I play for you.",
+        "grammar": [],
+        "vocabulary": [{ "word": "plaza", "meaning": "square" }],
+        "quiz": []
+      }
+    ]
+  },
+  "status": "DRAFT"
+}
